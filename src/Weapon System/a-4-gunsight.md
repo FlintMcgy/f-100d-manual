@@ -4,9 +4,9 @@
 
 ## Introduction
 
-**TODO: Note to self - If the armament selector is in BOMB/NAPALM and the sight is in manual, the sight will go out if the bomb arming knob is not set in an ARMED position.**
+The A-4 Gunsight is a lead computing optical sight. This system has a gyro to assist in computing the lead solution for aerial gunnery. It's primary input is the range which can be achieved either from the onboard APG-30 radar system or manually by the pilot using the optical sight to range.
 
-**TODO UPDATE: MAYBE it may depend on the version of the sabre.**
+The system can also be used for ground attack using various fixed sight modes where pre-calculated depression tables can be used.
 
 ### Sight Lines
 
@@ -128,3 +128,8 @@ This switch sets the effective velocity of the own aircraft and the closure rate
 ## Operation
 
 How to use.
+
+
+**TODO: Note to self - If the armament selector is in BOMB/NAPALM and the sight is in manual, the sight will go out if the bomb arming knob is not set in an ARMED position.**
+
+**TODO UPDATE: MAYBE it may depend on the version of the sabre.**

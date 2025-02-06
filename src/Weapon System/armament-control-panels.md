@@ -34,6 +34,17 @@ This selects the desired weapons to be released. When a store type is selected t
 
 #### Mode Selector
 
+This determines the release type for air-to-ground weapons. The sight and radar are powered in any position other than OFF.
+
+| Position | Description
+|----------|--------------
+| OFF      | Weapons, Sight and Radar are unpowered.
+| SIGHT & RADAR | Sight and Radar are Powered and can be used with guns or missiles.
+| MANUAL |  Sight and Radar are Powered. Bomb-button is energized and can send release pulses to either the [Aircraft Weapons Release System](./aircraft-weapons-release-system.md) if on, otherwise the [Basic Armament Control Circuitry](./basic-armament-control-circuitry.md).
+| LABS | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS]() for the normal LABS mode (LOFT).
+| LABS ALT | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS]() for the alternate LABS mode (Over-the-Shoulder).
+| LADD | Sight and Radar are Powered. Bomb-button is energized and can send activation signals to the [LABS]() for the low altitude drouge delivery LABS mode.
+
 #### Bomb Arm Switch
 
 This controls the bomb-arming solenoids in the pylons. This only affects bomb and napalm arming.
@@ -77,12 +88,12 @@ There are 1-9 possible weapon mountings. These mostly match the weapon types fou
 
 | Number | Ordinance | Notes
 |--------|-----------|---------
-1 | Empty | Nothing Loaded
-2 | Fuel Tanks | Important for G-Limit and Jettison
-3 | Bombs |
-4 | Dispensers |
-5 | Rockets |
-6 | Special Weapons | Nuclear Ordinance
-7 | Missiles | This is functionally the same as empty as the missiles are not control by the armament control panels
-8 | Napalm
-9 | Inoperative | Functionally the same as Empty
+| 1 | Empty | Nothing Loaded
+| 2 | Fuel Tanks | Important for G-Limit and Jettison
+| 3 | Bombs |
+| 4 | Dispensers |
+| 5 | Rockets |
+| 6 | Special Weapons | Nuclear Ordinance
+| 7 | Missiles | This is functionally the same as empty as the missiles are not control by the armament control panels
+| 8 | Napalm |
+| 9 | Inoperative | Functionally the same as Empty

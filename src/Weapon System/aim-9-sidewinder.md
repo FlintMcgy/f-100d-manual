@@ -32,6 +32,44 @@ This variant was introduced in 1972 and improved on the AIM-9E by increasing the
 
 The time between launch and missile maneuver was reduced to 0.3 seconds from 0.5 in previous versions.
 
+## Controls
+
+This panel is responsible for:
+
+- Managing the firing sidewinder order
+- Changing sidewinder volume
+- Jettisoning sidewinders
+- Making the sidewinders safe when not in use.
+
+![Missile Control](./img/missile_control_panel.png)
+
+1. [Missile Volume Control](#missile-volume-control)
+2. [Station Bypass](#station-bypass)
+3. [Missile Master](#missile-master)
+4. [Safe Launch](#safe-launch)
+
+### Missile Volume Control
+
+This adjust the volume of the sidewinder in the headset.
+
+### Station Bypass
+
+In the event of a defective sidewinder the store can be stepped to the next sidewinder by using the station bypass switch.
+
+### Missile Master
+
+This three position switch is normally in the standby position with it spring loaded for the reset position.
+
+Actuating reset will reset the firing order of the sidewinders moving the firing order back to the first sidewinder (left pylon right sub-pylon).
+
+Standby will maintain the sidewinder in a warmed up state while keeping the missile safe.
+
+Ready will arm the sidewinder for launch bringing it to the read position.
+
+### Safe Launch
+
+Pressing this switch will fire all sidewinders safe (no fuzing or guidance) in their firing order with a 0.5 second delay.
+
 ## Operation
 
 ### Setup

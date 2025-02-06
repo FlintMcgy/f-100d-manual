@@ -25,3 +25,7 @@ nav:
       - Armament Control Panels: ./Weapon System/armament-control-panels.md
       - Basic Armament Control Circuitry: ./Weapon System/basic-armament-control-circuitry.md
       - Aircraft Weapons Release System: ./Weapon System/aircraft-weapons-release-system.md
+      - Procedures:
+        - Manual Delivery: ./Weapon System/Procedures/manual-delivery.md
+
+    
