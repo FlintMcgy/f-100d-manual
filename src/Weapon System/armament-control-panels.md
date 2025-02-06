@@ -2,12 +2,15 @@
 
 ## Introduction
 
-The armament control panels are a group of panels responsible for selecting ordidance for weapons delivery.
+The armament control panels are a group of panels responsible for selecting ordinance for weapons delivery and indicating information about the weapon systems.
 
 These consist of:
 
+- [Gun Missile Switch](#gun-missile-switch)
+- [Status Display Lights](#status-display-lights)
 - [Armament Selector Panel](#armament-selector-panel)
 - [Pylon Loading Control Panel](#pylon-loading-control-panel)
+
 
 ## Gun Missile Switch
 
@@ -33,7 +36,8 @@ The status display lights indicate various information about the current state o
 
 ![Status Display Lights Image](./img/status_display_lights.png)
 
-| Light | Purpose |
+| Light | Purpose 
+|-------|---------
 | TER EMPTY | This indicates (if a TER is mounted on an inner pylon) if a TER is empty of bombs
 | CBU EMPTY | This indicates (if a CBU Dispenser is mounted) if the CBU dispenser is fully depleted
 | Missile | This indicates if a missile is ready to be fired. The missiles are listed in firing order.

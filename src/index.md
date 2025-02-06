@@ -2,7 +2,8 @@
 
 ## Contents
 
-1. [Weapons System](./Weapon%20System/a-4-gunsight.md)
+1. [Defensive Systems](./RHAW/RHAW.md)
+2. [Weapons System](./Weapon%20System/a-4-gunsight.md)
 
 Manual Topic List:
 
