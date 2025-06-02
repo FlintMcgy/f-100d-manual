@@ -122,7 +122,7 @@ This sets the depression from the boresight in [NATO MILS]() when either in the 
 This switch sets the effective velocity of the own aircraft and the closure rate for the sight calculations. Each setting is phrased in terms of the target velocity.
 
 | Mode | Own Speed (knots) | Target Speed (knots) | Closure Rate (knots)
-|------|-------------------|----------------------|-------------------------------------------
+|------|-------------------|----------------------|---------------------
 | TR   | 300               | 200                  | 100
 | HI   | 600               | 500                  | 100
 | LO   | 600               | 200                  | 400
