@@ -37,6 +37,8 @@ The primary bus powers the most essential equipment to the aircraft. Under norma
 
 ### Secondary Bus
 
+
+
 ### Tertiary Bus
 
 ## AC System

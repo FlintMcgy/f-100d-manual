@@ -47,7 +47,7 @@ Below the various types of pulse repetition frequency are described.
 
 The AN/APR-25 was only designed to deal with Low Pulse Repetition Frequency threats and thus only these can be correctly categorised. However because of the multiple frequencies used in medium pulse repetition frequency beat frequencies are created which can be heard in the low pulse repetition frequency range. High pulse repetition frequency radars have no such complexity and therefore they simply max the frequency of the AN/APR-25 audio generator.
 
-### Equipement
+### Equipment
 
 #### Antennas
 
@@ -71,7 +71,7 @@ The primary characteristics which can be measured are the pulse repetition frequ
 
 #### Audio Generator
 
-The pulses from the amplifiers are directly translated to audio. This can result in a noisey environment when there are lots of radars operating - although the [band disable](#sam-indications-bands-ige) and [aaa defeat](#aaa-defeat) can both be used to reduce unwanted threat indications and their respective audio.
+The pulses from the amplifiers are directly translated to audio. This can result in a noisy environment when there are lots of radars operating - although the [band disable](#sam-indications-bands-ige) and [aaa defeat](#aaa-defeat) can both be used to reduce unwanted threat indications and their respective audio.
 
 ## Billboard
 

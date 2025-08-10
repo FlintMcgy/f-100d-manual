@@ -8,11 +8,19 @@ The low altitude bombing system was introduced to assist with nuclear weapons de
 
 All LABS delivery modes share the pullup timer. The pullup timer is the time set by the pilot to indicate the time taken for the aircraft to fly from a know identification point (IP) to the pullup point.
 
-To calculate the pullup timer use the below formula:
+There are two variables which determine pullup timer:
 
-`pullup timer = distance from IP to pullup point / ground speed`
+- ground speed
+- bomb travel distance
+- distance from IP to target
 
-The ground speed is determined by your release parameters, the indentification point (IP) is chosen to be something that is easy to find and navigate to from the air and near the target area.
+The formula:
+
+`pullup timer = (distance from ip to target - bomb travel distance) / ground speed`
+
+can then be used to figure out what should be set for the pullup timer. Both ground speed and distance from IP to target can be easily chosen during mission planning. The indentification point (IP) is chosen to be something that is easy to find and navigate to from the air and near the target area.
+
+Bomb travel distance is determined by the exact release parameters of the bomb: including release angle, true airspeed, target altitude, aircraft altitude, bomb type and wind. [See the table below for some candidate release parameters]()
 
 ### LABS (Loft)
 

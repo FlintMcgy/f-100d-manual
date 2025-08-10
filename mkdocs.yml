@@ -20,6 +20,7 @@ docs_dir: src
 use_directory_urls: false
 
 nav:
+    - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
     - General Systems:
@@ -27,14 +28,20 @@ nav:
       - Hydraulics:
         - Introduction: ./Hydraulics/introduction.md
         - Utility: ./Hydraulics/utility.md
+      - Radios:
+        - ARC-34 Command Radio: ./ARC-34 Command Radio/command-radio.md
     - Defensive Systems:
       - AN/APR-25 RHAW: ./RHAW/RHAW.md
     - Weapon Systems:
+      - Introduction: ./Weapon_System/introduction.md
       - Armament Control Panels: ./Weapon_System/armament-control-panels.md
       - Basic Armament Control Circuitry: ./Weapon_System/basic-armament-control-circuitry.md
       - Aircraft Weapons Release System: ./Weapon_System/aircraft-weapons-release-system.md
       - A-4 Gunsight: ./Weapon_System/a-4-gunsight.md
+      - Guns: ./Weapon_System/guns.md
       - AIM-9 Sidewinder: ./Weapon_System/aim-9-sidewinder.md
+      - AIM-45 Shrike: ./Weapon_System/agm-45-shrike.md
+      - AN/AJB-1 Low Altitude Bombing System: ./Weapon_System/low-altitude-bombing-system.md
 
     - Procedures:
       - Weapons Employment:
