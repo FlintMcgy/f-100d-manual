@@ -21,11 +21,12 @@ Manual Topic List:
   - Sidewinder
   - Guns
   - LABS
-- ARC-34
-- Radio Compass
-- TACAN
+- ARC-34 UHF Command Radio
+- ARN-6 Radio Compass
+- ARN-72 TACAN
 - J4 Compass
 - MD1 Gyro
+- MD-1 Oxygen Regulator
 
 Additional Things:
 
