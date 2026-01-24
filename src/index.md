@@ -30,7 +30,7 @@ Manual Topic List:
 - Seek Silence System
 - APX-72 IFF
 - J-4 Compass
-- B-26 Navigation COmputer
+- B-26 Navigation Computer
 
 Additional Things:
 
