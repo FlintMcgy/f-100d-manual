@@ -22,6 +22,8 @@ There are 4 primary fuel tanks.
 | Wing | Left, Right | 2723 | These feed into forward fuselage by gravity and the [scavenge pumps](#fuel-transfer-and-scavenge-pumps)
 | External | Up to one per wing pylon | configuration dependent | These feed into the forward fuselage tank via bleed air pressure. Which pair of tanks feeding depends on the [drop tank selector switch](#drop-tank-selector-switch) position.
 
+![fuel system](./img/fuel-system.png)
+
 ## Inverted Flight Tank
 
 The inverted flight tank is the direct feed to the engine. The inverted flight tank can be fed either from the manifold, which is inturn fed by the upper and lower forward fuselage tank, or the intermediate fuselage tank.
