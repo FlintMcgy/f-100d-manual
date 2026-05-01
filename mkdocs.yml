@@ -53,11 +53,11 @@ nav:
     - 'index.md'
     - Introduction:
       - Overview: ./Introduction/introduction.md
-      - Cockpit:
-        - Instrument Panel: ./Introduction/instrument-panel.md
-        - Cockpit Left Side: ./Introduction/cockpit-left.md
-        - Cockpit Right Side: ./Introduction/cockpit-right.md
-        - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
+    - Cockpit:
+      - Instrument Panel: ./Introduction/instrument-panel.md
+      - Cockpit Left Side: ./Introduction/cockpit-left.md
+      - Cockpit Right Side: ./Introduction/cockpit-right.md
+      - Indicator, Caution, & Warning Lights: ./Introduction/lights-overview.md
     - DCS:
       - Checklist: ./Meta/checklist.md
       - Parameters: ./Meta/parameters.md
@@ -101,6 +101,10 @@ nav:
       - Weapons Employment:
         - Manual Delivery: ./Weapon_System/Procedures/manual-delivery.md
         - Sidewinders: ./Weapon_System/Procedures/sidewinder.md
+
+    - Emergencies:
+      - Warnings and cautions: ./Emergencies/warnings-and-cautions.md
+      - Ejection: ./Emergencies/ejection.md
 
     - Extras:
       - Research Series: ./Introduction/research-series.md
