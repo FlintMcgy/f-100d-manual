@@ -38,7 +38,7 @@ In this section, the primary flight instruments needed for basic operation of th
 | 29        | [Engine Pressure Ratio Gauge](../Engine/engine.md#engine-pressure-ratio-gauge) |
 | 30        | [Fuel Flow Indicator](../Fuel/fuel.md#fuel-flow-indicator) |
 | 31        | [Fuel Quantity Gauges](../Fuel/fuel.md#forward-fuel-quantity-gauge) |
-| 32        | [Fuel Boost Pump INOP Light](../Fuel/fuel.md#fuel-boot-pump-light) |
+| 32        | [Fuel Boost Pump INOP Light](../Fuel/fuel.md#fuel-boost-pump-light) |
 
 ## Airspeed and Mach Indicator
 The aircraft's air data computer (ADC) computes the velocity based on temperature and pressure signals received by the pitot-static system. Specifically, it takes the difference between measured total and static pressure to compute dynamic pressure. Loss of either the pitot tube or static ports will manifest in inaccurate  airspeed readings. 
