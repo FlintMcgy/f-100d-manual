@@ -7,10 +7,10 @@ Indicator, caution, and warning lights are placed throughout the cockpit in orde
 | Caution | Possible need for corrective action, not time sensitive | Yellow |
 | Warning | Requires immediate action, time sensitive | Red |
 
-The three-position indicator light dimmer switch controls the brightness of the indicator, caution, and warning lights when the insturment panel lights are on. The in-flight control tester panel has its own integral brightness control.
+The three-position indicator light dimmer switch controls the brightness of the indicator, caution, and warning lights when the instrument panel lights are on. The in-flight control tester panel has its own integral brightness control.
 
 !!! note
-    The indicator light test switch changes the indicator lights to bright when released. To dim the indiactor lights after using the indicator light test switch, move the indicator light dimmer switch to BRIGHT, then to DIM, and release to the center off position.
+    The indicator light test switch changes the indicator lights to bright when released. To dim the indicator lights after using the indicator light test switch, move the indicator light dimmer switch to BRIGHT, then to DIM, and release to the center off position.
 
 ## Indicator, Caution, and Warning Light Panel
 
@@ -32,16 +32,16 @@ The three-position indicator light dimmer switch controls the brightness of the 
 | AIR REFUEING READY | Indicator | Air refueling switch is in the ready position, does not indicate that all components in the system are operational| |
 
 ## Indicator Light Test Circuit
-The indicator light test circuit is a means of merely testing the integrity and operation of the bulbs. All indicator, caution, and warning lights will illuminate simultaneously to exclude the engine compartment fire "FIRE ENG COMP" and overheat "OVERHEAT ENG BURN" warning lights, of which have a seperate test circuit. All lights in the test circuit are powered by the primary bus. 
+The indicator light test circuit is a means of merely testing the integrity and operation of the bulbs. All indicator, caution, and warning lights will illuminate simultaneously to exclude the engine compartment fire "FIRE ENG COMP" and overheat "OVERHEAT ENG BURN" warning lights, of which have a separate test circuit. All lights in the test circuit are powered by the primary bus. 
 
 ## Master Caution Light
-The master caution light indicated certain indicator or caution lights have illuminated. The master caution light must be put out in order to not inhibit the illumination of additional lights. To extenguish the master caution light, the pilot must press the respective indicator or caution light that caused the master caution to become illuminated.
+The master caution light indicated certain indicator or caution lights have illuminated. The master caution light must be put out in order to not inhibit the illumination of additional lights. To extinguish the master caution light, the pilot must press the respective indicator or caution light that caused the master caution to become illuminated.
 
 !!! note
     Illumination of the following lights do not illuminate the master caution light:
 * TRIMMED FOR TAKEOFF
 * FIRE ENG COMP and OVERHEAT ENG BURN
-* CAOPY NOT LOCKED
+* CANOPY NOT LOCKED
 * SEL. DROP TANK EMPTY
 * AIR REFUELING READY
 * Ignition-on

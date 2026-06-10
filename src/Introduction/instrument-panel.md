@@ -8,34 +8,34 @@ In this section, the primary flight instruments needed for basic operation of th
 | Reference | Name |
 |-----------|------|
 | 1         | [Command Radio Remote Channel Indicator](../ARC-34%20Command%20Radio/command-radio.md#remote-channel-indicator) |
-| 2         | [Standby Attitude Indicator] |
-| 3         | [Clock] |
+| 2         | [Standby Attitude Indicator](#standby-attitude-indicator) |
+| 3         | [Clock](#clock) |
 | 4         | [Sight Selector Unit](../Weapon_System/a-4-gunsight.md#1-sight-selector-switch) |
 | 5         | [Tacan Range Indicator](../ARN-72%20TACAN/tacan.md#tacan-range-indicator) |
-| 6         | [Master Heading Indicator] |
+| 6         | [Master Heading Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro) |
 | 7         | [Airspeed and Mach Indicator](#airspeed-and-mach-indicator) |
 | 8         | [AC Load Meter](../Electrical/electrical.md#ac-load-meter) |
 | 9         | [DC Load Meter](../Electrical/electrical.md#dc-load-meter) |
 | 10        | [Master Caution Light](./lights-overview.md#master-caution-light) |
 | 11        | [Attitude Indicator](#attitude-indicator) |
-| 12        | [Radio Magnetic Indicator]|
+| 12        | [Radio Magnetic Indicator](../DirectionGyroCompass/direction-gyro-and-compass.md#direction-gyro) |
 | 13        | [Course Indicator](../ARN-72%20TACAN/tacan.md) |
 | 14        | Tacan ILS Light - inoperative |
 | 15        | [Altimeter](#altimeter) |
 | 16        | [Vertical Velocity Indicator](#vertical-velocity-indicator) |
-| 17        | [Gun Missile Switch](../Weapon_System/armament-control-panels.md#gun-missile-switch) |
-| 18        | [Attitude Indicator Fast Erection Button] |
-| 19        | [Fire and Overheat Warning Lights] |
+| 17        | [Gun Missile Switch](../Weapon_System/guns.md#gun-missile-switch) |
+| 18        | [Attitude Indicator Fast Erection Button](#attitude-indicator-fast-erection-button) |
+| 19        | [Fire and Overheat Warning Lights](./lights-overview.md#other) |
 | 20        | [Turn and Slip Indicator](#turn-and-slip-indicator) |
 | 21        | [LABS Dive and Roll Indicator](../Weapon_System/low-altitude-bombing-system.md#pitch-indicator) |
 | 22        | [LABS Release Indicator Light](../Weapon_System/low-altitude-bombing-system.md#pullup-light) |
 | 23        | [Accelerometer](#accelerometer) |
 | 24        | [Hydraulic Pressure Gauge Selector Switch](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
 | 25        | [Hydraulic Pressure Gauge](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
-| 26        | [Oil Pressure Gauge] |
-| 27        | [Exhaust Temperature Gauge] |
-| 28        | [Tachometer (RPM)] |
-| 29        | [Engine Pressure Ration Gauge] |
+| 26        | [Oil Pressure Gauge](../Engine/engine.md#oil-pressure-gauge) |
+| 27        | [Exhaust Temperature Gauge](../Engine/engine.md#exhaust-temperature-gauge) |
+| 28        | [Tachometer (RPM)](../Engine/engine.md#tachometer) |
+| 29        | [Engine Pressure Ratio Gauge](../Engine/engine.md#engine-pressure-ratio-gauge) |
 | 30        | [Fuel Flow Indicator](../Fuel/fuel.md#fuel-flow-indicator) |
 | 31        | [Fuel Quantity Gauges](../Fuel/fuel.md#forward-fuel-quantity-gauge) |
 | 32        | [Fuel Boost Pump INOP Light](../Fuel/fuel.md#fuel-boot-pump-light) |
@@ -73,3 +73,19 @@ To set the altimeter into servoed mode hold the reset switch on the face of the 
 
 ## Vertical Velocity Indicator
 The vertical velocity indicator computes the aircraft's vertical velocity, in feet per minute, via static pressure signals from the ADC. Lag is an inherent consequence of the design of the indicator and can result in readings often delayed up to 6 seconds. Much like the airspeed indicator, the vertical velocity indicator suffers from substantial positional and gauge installation errors and can often read up to 500 feet per minute.
+
+## Clock
+The ABU-11 clock has two ways of keeping time. On the clock face, you have two hands that work as a regular 12 hour clock with no AM or PM setting. Another set of hands will act as a stopwatch showing you seconds and minutes.
+
+On the clock, you have two dials. The dial to the bottom left works as time adjustment and the one at the top right works as a START/STOP/RESET function for the stopwatch.
+
+## Standby Attitude Indicator
+The Standby Attitude Indicator is a backup to the [Attitude Indicator](#attitude-indicator). The systems work identically to each other however, they are using independent gyros.
+
+Like the Attitude Indicator, it has an adjustment knob on the gauge.
+
+## Attitude Indicator Fast Erection Button
+This button marked **"PUSH VGI ERECT"**, permits fast erection of the attitude gyros only when the button is depressed. Please note, you may have to hold the button a while depending on how misaligned the gyro has become.
+
+!!! caution
+    You should only use fast erect when the aircraft is flying level and is not accelerating otherwise error will result.

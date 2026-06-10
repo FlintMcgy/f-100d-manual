@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The aircraft has three sepparate constant-pressure type hydraulic systems: utility and two flight control systems. Each one of the three systems is individually pressurised by a engine driven hydraulic pump to 3000 psi.
+The aircraft has three separate constant-pressure type hydraulic systems: utility and two flight control systems. Each one of the three systems is individually pressurized by a engine driven hydraulic pump to 3000 psi.
 
 In case of engine driven pump failure the secondary flight control system can be driven by a deployable [Ram Air Turbine](#ram-air-turbine-rat) (RAT).
 
 ## Utility System
 
-This system has a 2.7 gallon reservoir and is pressurised by an engine pump. It supplies hydraulic power to the following units:
+This system has a 2.7 gallon reservoir and is pressurized by an engine pump. It supplies hydraulic power to the following units:
 
 - Rudder
 - Landing Gear & Doors
@@ -31,11 +31,11 @@ In case of utility hydraulic failure or flap control failure the flaps can be lo
 
 ### Emergency Nose Wheel Accumulator
 
-In case of utility hydraulic failure the [emergency gear release](#emergency-gear-release) can be used to drop the main gear by gravity, the nose gear on its own cannot soley be dropped by gravity as such an emergency accumulator is provided to drop the nose gear.
+In case of utility hydraulic failure the [emergency gear release](#emergency-gear-release) can be used to drop the main gear by gravity, the nose gear on its own cannot solely be dropped by gravity as such an emergency accumulator is provided to drop the nose gear.
 
 ## Flight Controls 1 & 2 Systems
 
-Two complete independent and simultaneously operating hydraulic systems (Number 1 and Number 2) actuate the primary flight control surfaces. Both of these systems are powered by their own sepparate engine pump and are completely independent. Each system supplies half the demand of power to the control surface.
+Two complete independent and simultaneously operating hydraulic systems (Number 1 and Number 2) actuate the primary flight control surfaces. Both of these systems are powered by their own separate engine pump and are completely independent. Each system supplies half the demand of power to the control surface.
 
 Failure of one of these systems does not affect the other. In case of frozen engine or engine pump failure number 2 hydraulic pressure can be maintained by a deployable [Ram Air Turbine](#ram-air-turbine-rat).
 
@@ -64,7 +64,7 @@ Deployment of the Ram Air Turbine can be tested in flight using the [flight cont
 
 ### Emergency Wheel Brake Pump
 
-In case of utility hydraulic pressure loss an electrical driven pump is used to pressurise the wheel brake accumulators anytime the pressure drops below 750 psi. This pump can be checked for correct function by listening for the pump when the aircraft is cold and dark by depressing the wheel brakes.
+In case of utility hydraulic pressure loss an electrical driven pump is used to pressurize the wheel brake accumulators anytime the pressure drops below 750 psi. This pump can be checked for correct function by listening for the pump when the aircraft is cold and dark by depressing the wheel brakes.
 
 ## Controls and Indicators
 
@@ -90,13 +90,13 @@ After testing the [lever](#ram-air-turbine-door-lever) must be manually moved af
 
 ### Rudder Hydraulic Test Switch
 
-This springloaded switch is used to test if the hydraulic summing valve is functioning correctly for the rudder actuator so that, in case of insufficient utility pressure, the rudder can continue to function using the number 2 system pressure.
+This spring loaded switch is used to test if the hydraulic summing valve is functioning correctly for the rudder actuator so that, in case of insufficient utility pressure, the rudder can continue to function using the number 2 system pressure.
 
 To test this valve the switch is held in the ALTERNATE RUDDER position to shut off utility pressure, then the rudder can be moved and it should be observed that the rudder pressure jumps from its nominal pressure up to 3000 psi to match the pressure of the number 2 hydraulic system.
 
 ### Emergency Speed Brake Dump Lever
 
-In case of utility hydraulics failure with the speed brake in the open position it will be necessary to retract the speedbrake. Without hydraulic pressure this is not possible so the dump lever can be used to release any hydraulic pressure allowing the speed brake to be retracted by the airflow.
+In case of utility hydraulics failure with the speed brake in the open position it will be necessary to retract the speed brake. Without hydraulic pressure this is not possible so the dump lever can be used to release any hydraulic pressure allowing the speed brake to be retracted by the airflow.
 
 ### Emergency Gear Release
 

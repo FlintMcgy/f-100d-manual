@@ -10,16 +10,16 @@ The control stick is mechanically connected to the aircraft's hydraulic systems 
 |-----------|------|
 | 1         | [Damper Emergency Disconnect Switch Lever] |
 | 2         | [Nose Wheel Steering Button](#nose-wheel-steering) |
-| 3         | [Trigger] |
+| 3         | [Trigger](../Weapon_System/guns.md) |
 | 4         | [Radar Reject Button](../Weapon_System/a-4-gunsight.md#radar-reject-button) |
-| 5         | [Pickle Button] |
+| 5         | [Pickle Button](../Weapon_System/introduction.md#air-to-ground) |
 | 6         | [Trim Hat](#trim-hat) |
 
 !!! note
     Hide the stick by clicking the base.
 
 ### Trim Hat
-A trim hat actuates the lateral and logitdunal trim servos. 
+A trim hat actuates the lateral and longitudinal trim servos. 
 
 ### Nose Wheel Steering 
 The nose wheel steering button is located near the pinky. Pressing the nose wheel steering button engages the nose wheel steering and drops the mechanical link into the nose wheel assembly. 
@@ -40,19 +40,19 @@ Fuel flow to the engine is mechanically controlled by the pilot via the throttle
 
 | Reference | Name |
 |-----------|------|
-| 1         | [Throttle Friction Lever] |
+| 1         | [Throttle Friction Lever](#throttle-friction-lever)|
 | 2         | [Speed Brake Switch](#speed-brake-switch) |
-| 3         | [Interphone Call Button](#interphone-call-button) |
+| 3         | [Microphone Button](#microphone-button) |
 | 4         | [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button) |
 
+### Throttle Friction Lever
+The Throttle Friction Lever adjust how much friction the throttle has. Moving the lever forward increases the friction on the throttle
+
 ### Speed Brake Switch
-A speed brake switch *** BLAH BLAH **
+The speed brake switch will actuate the speed brake. It has 3 positions, OUT/OFF/IN. The OUT position will deploy the speed brake. The OFF position will stop all movement of the speed brake. The IN position will retract the speed brake
 
 ### Microphone Button
-The microphone buttom is a press-to-talk actuation that turns the pilots microphone hot over the aircrafts radio.
+The microphone button is a press-to-talk actuation that turns the pilots microphone hot over the aircraft's radio.
 
-### Interphone Call Button
-** BLAH BLAH  **
-
-### LABS Vertical Gyro Caging Button
-*** BLAH BLAH **
+### Sight Electrical Caging Button and LABS Vertical Gyro Caging Button
+Pressing the sight electrical caging button stabilizes the sight gyro reticle image by caging the sight gyros. This button also serves as the LABS vertical gyro caging button.
