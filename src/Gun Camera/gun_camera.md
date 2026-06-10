@@ -17,7 +17,7 @@ and target simultaneously.
 
 ### Camera Shutter Selector Switch
 
-The shutter setting of the camera is adjusted through a tertiary-buspowered rotary selector switch. Turning the switch to OFF disconnects power to the camera, camera heaters, and shutter control. Turning the switch to BRIGHT, HAZY, or DULL, depending on lighting conditions, positions the shutter aperture of the gun camera and turns on the camera heaters.
+The shutter setting of the camera is adjusted through a tertiary-bus powered rotary selector switch. Turning the switch to OFF disconnects power to the camera, camera heaters, and shutter control. Turning the switch to BRIGHT, HAZY, or DULL, depending on lighting conditions, positions the shutter aperture of the gun camera and turns on the camera heaters.
 
 ### Camera Timer
 
@@ -25,4 +25,4 @@ When the gun camera is used during missile firing, a camera timer with two adjus
 
 ### Ground Crew Operation
 
-TODO - How to change film, does film refresh when rearmning?
+TODO - How to change film, does film refresh when rearming?

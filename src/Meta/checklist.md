@@ -113,7 +113,7 @@ In case of failure for either method of condition due to incorrect configuration
 
 #### Number (Integer)
 
-This represents the position of the switch. There **must** be a corresponsing correct [clickable](#finding-clickables) for this to function. The position of any switch is it's integer position counted from its minimum value, this will usually fully aft, or fully down, or fully anti-clockwise. Exceptions to this rule exist but this should work for most switches. 
+This represents the position of the switch. There **must** be a corresponding correct [clickable](#finding-clickables) for this to function. The position of any switch is it's integer position counted from its minimum value, this will usually fully aft, or fully down, or fully anti-clockwise. Exceptions to this rule exist but this should work for most switches. 
 
 An example is shown below.
 

@@ -8,7 +8,7 @@ Fuel is automatically balanced in the aircraft using a series of valves and floa
 
 All fuel to the engine passes through a 1.6 gallon inverted flight tank which gives fuel for short periods of negative or zero g.
 
-The aircraft has a single point pressure refueling system which allows for both ground and air-to-air refueling of all the aircrafts internal tanks. This system also has provisions for filling 275 and 335 gallon drop tanks on the intermediate pylons allowing for in-flight refueling on these tanks on intermediate pylons. Other tanks on other pylons cannot be refueled this way.
+The aircraft has a single point pressure refueling system which allows for both ground and air-to-air refueling of all the aircraft's internal tanks. This system also has provisions for filling 275 and 335 gallon drop tanks on the intermediate pylons allowing for in-flight refueling on these tanks on intermediate pylons. Other tanks on other pylons cannot be refueled this way.
 
 ## Fuel Tanks
 
@@ -59,20 +59,20 @@ Drop tanks can be mounted on any of the wing pylons. However only the 335 gallon
 | 335            | Intermediate only   | Yes
 | 450            | Intermediate only   | Yes
 
-Tanks are pressurised by the engine bleed air when [drop tank selector switch](#drop-tank-selector-switch) is set to any position other than `OFF`. In case of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
+Tanks are pressurized by the engine bleed air when [drop tank selector switch](#drop-tank-selector-switch) is set to any position other than `OFF`. In case of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
 
 !!! warning
     Due to the volume of fuel flow when the afterburner is operating it is not possible to keep the forward tank full despite transfers from external and internal tanks to the forward tank. Thus the pilot must monitor the forward fuel tank level so as to not cause an engine flame-out due to insufficient fuel in this tank to feed the engine.
 
 ## Fuel System Shutoff Valve
 
-The fuel shutoff valve is an electronically acutated valve which can be used to shut off fuel to the engine. In case of valve failure the [fuel system shutoff valve fail light](#fuel-system-shutoff-valve-fail-light) will illuminate.
+The fuel shutoff valve is an electronically actuated valve which can be used to shut off fuel to the engine. In case of valve failure the [fuel system shutoff valve fail light](#fuel-system-shutoff-valve-fail-light) will illuminate.
 
 ## Controls and Indicators
 
 ### Drop Tank Selector Switch
 
-This selects which external tanks are pressurised by the engine bleed air. In case of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
+This selects which external tanks are pressurized by the engine bleed air. In case of electrical failure the bleed air valves are normally open position allowing fuel transfer from all external tanks simultaneously.
 
 ### Drop Tank Empty Indicator Light
 
@@ -84,10 +84,10 @@ This light will illuminate if the fuel system shutoff valve is stuck as this cou
 
 ### Air to Air Refueling Switch
 
-This de-energises the transfer control valves for the internal wing and external fuel tanks, allowing the single point pressure refueling system to refuel these tanks correctly.
+This de-energizes the transfer control valves for the internal wing and external fuel tanks, allowing the single point pressure refueling system to refuel these tanks correctly.
 
 !!! warning
-    Do not position this to `READY` too soon as this prevents about 25 pounds per minute of fuel from being transfered from the internal wing tanks to the forward tank.
+    Do not position this to `READY` too soon as this prevents about 25 pounds per minute of fuel from being transferred from the internal wing tanks to the forward tank.
 
 ### Air Refueling Indicator Light
 

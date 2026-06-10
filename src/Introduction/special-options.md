@@ -52,7 +52,7 @@ Turning the option to off will disable all gun recording and not generate video 
 To adjust the default gun camera effects, select between off (to remove entirely), or vintage.
 
 ### Overrun Time
-This slider will adjust how long the gun cameras will continue to recored after trigger release. Adjust between 0 and 3 seconds.
+This slider will adjust how long the gun cameras will continue to record after trigger release. Adjust between 0 and 3 seconds.
 
 ### Start Delay Adjust
 This slider will adjust the time between trigger release and the start of the preset run time. Adjust between 4 to 30 seconds.
@@ -75,7 +75,7 @@ Turning the option to off will disable all gun recording and not generate video 
 To adjust the default Strike camera effects, select between off (to remove entirely), or vintage.
 
 ### Overrun Time
-This slider will adjust how long the gun cameras will continue to recored after pickle release. Adjust between 0 and 3 seconds.
+This slider will adjust how long the gun cameras will continue to record after pickle release. Adjust between 0 and 3 seconds.
 
 ### Forward Camera Elevation
 The forward camera elevation can be adjusted from 0 degrees to 20 degrees down.

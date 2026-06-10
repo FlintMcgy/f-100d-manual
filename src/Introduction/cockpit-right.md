@@ -4,18 +4,18 @@
 
 | Reference | Name |
 |-----------|------|
-| 1         | [Indicator and Caution Light Panel] |
-| 2         | [Standby Insturment Inverter Switch](../Electrical/electrical.md#standby-instrument-inverter) |
+| 1         | [Indicator and Caution Light Panel](./lights-overview.md) |
+| 2         | [Standby Instrument Inverter Switch](../Electrical/electrical.md#standby-instrument-inverter) |
 | 3         | [Navigation Computer] |
 | 4         | [Electrical Control Panel] |
-| 5         | [Oxygen Regulator Control Panel] |
+| 5         | [Oxygen Regulator Control Panel](../Oxygen%20System/oxygen.md) |
 | 6         | [Liquid Oxygen Quantity Gauge] |
-| 7         | [IFF/SIF Control Panel] |
+| 7         | [IFF/SIF Control Panel](../APX-72%20IFF/iff.md) |
 | 8         | [Canopy Alternate Emergency Jettison Handle] |
-| 9         | [Radio Compass Control Panel] |
-| 10        | [Tacan Control Panel] |
-| 11        | [J-4 Compass Control Panel] |
-| 12        | [Exterior Floodlight Anticollision Light Panel] |
+| 9         | [Radio Compass Control Panel](../ARA-50%20ADF/adf-radio.md) |
+| 10        | [Tacan Control Panel](../ARN-72%20TACAN/tacan.md) |
+| 11        | [J-4 Compass Control Panel](../DirectionGyroCompass/direction-gyro-and-compass.md#controls) |
+| 12        | [Exterior Floodlight Anti-collision Light Panel] |
 | 13        | [Lighting Control Panel] |
 | 14        | [Cockpit Utility Light] |
 | 15        | [Flight Control Emergency Hydraulic Pump Lever] |

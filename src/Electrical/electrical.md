@@ -24,7 +24,7 @@ The engine driven DC generator provides power to the DC systems under normal ope
 
 ### Battery Bus
 
-The battery bus is connected directly to the battery, so that essential equipement powered by this bus is operable as long as battery power is available, **regardless of battery switch position**.
+The battery bus is connected directly to the battery, so that essential equipment powered by this bus is operable as long as battery power is available, **regardless of battery switch position**.
 
 The battery is 24 Volt, 24 ampere hour battery. The DC Generator nominally outputs 28 Volts.
 
