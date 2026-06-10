@@ -68,6 +68,10 @@ In case of utility hydraulic pressure loss an electrical driven pump is used to 
 
 ## Controls and Indicators
 
+### Hydraulic Pressure Indicator and Knob
+
+This knob and gauge indicate the pressure in the selected position.
+
 ### Ram Air Turbine Door Lever
 
 This is used to deploy the [Ram Air Turbine](#ram-air-turbine-rat) manually, this lever will automatically actuate when the Ram Air Turbine is deployed automatically.

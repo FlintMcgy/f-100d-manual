@@ -10,7 +10,7 @@ In this section, the primary flight instruments needed for basic operation of th
 | 1         | [Command Radio Remote Channel Indicator](../ARC-34%20Command%20Radio/command-radio.md#remote-channel-indicator) |
 | 2         | [Standby Attitude Indicator] |
 | 3         | [Clock] |
-| 4         | [Sight Selector Unit] |
+| 4         | [Sight Selector Unit](../Weapon_System/a-4-gunsight.md#1-sight-selector-switch) |
 | 5         | [Tacan Range Indicator](../ARN-72%20TACAN/tacan.md#tacan-range-indicator) |
 | 6         | [Master Heading Indicator] |
 | 7         | [Airspeed and Mach Indicator](#airspeed-and-mach-indicator) |
@@ -19,19 +19,19 @@ In this section, the primary flight instruments needed for basic operation of th
 | 10        | [Master Caution Light](./lights-overview.md#master-caution-light) |
 | 11        | [Attitude Indicator](#attitude-indicator) |
 | 12        | [Radio Magnetic Indicator]|
-| 13        | [Course Indicator] |
-| 14        | [Tacan ILS Light] |
+| 13        | [Course Indicator](../ARN-72%20TACAN/tacan.md) |
+| 14        | Tacan ILS Light - inoperative |
 | 15        | [Altimeter](#altimeter) |
 | 16        | [Vertical Velocity Indicator](#vertical-velocity-indicator) |
 | 17        | [Gun Missile Switch](../Weapon_System/armament-control-panels.md#gun-missile-switch) |
 | 18        | [Attitude Indicator Fast Erection Button] |
 | 19        | [Fire and Overheat Warning Lights] |
 | 20        | [Turn and Slip Indicator](#turn-and-slip-indicator) |
-| 21        | [LABS Dive and Roll Indicator] |
-| 22        | [LABS Release Indicator Light] |
+| 21        | [LABS Dive and Roll Indicator](../Weapon_System/low-altitude-bombing-system.md#pitch-indicator) |
+| 22        | [LABS Release Indicator Light](../Weapon_System/low-altitude-bombing-system.md#pullup-light) |
 | 23        | [Accelerometer](#accelerometer) |
-| 24        | [Hydraulic Pressure Gauge Selector Switch] |
-| 25        | [Hydraulic Pressure Gauge] |
+| 24        | [Hydraulic Pressure Gauge Selector Switch](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
+| 25        | [Hydraulic Pressure Gauge](../Hydraulics/hydraulic.md#hydraulic-pressure-indicator-and-knob) |
 | 26        | [Oil Pressure Gauge] |
 | 27        | [Exhaust Temperature Gauge] |
 | 28        | [Tachometer (RPM)] |
@@ -66,6 +66,10 @@ An accelerometer measures the aircraft's G load in the normal axis. The accelero
 
 ## Altimeter
 The altimeter displays the static system's current reading corrected for non standard temperature set by the pilot via a rotate actuation on the Altimeter's pressure setting knob. The current pressure setting is displayed in the Kollsman's window and is usually set to the local sea-level pressure in inches of mercury. Correct application of the local sea-level pressure setting will display the aircraft's mean-sea-level altitude on the altimeter.
+
+The altimeter can operate in two modes: servoed and standby. In standby mode the altimeter acts as a normal pressure based altimeter with any static port errors. In servoed mode the altimeter instead displays the corrected values from the air data computer.
+
+To set the altimeter into servoed mode hold the reset switch on the face of the altimeter to the reset position until the standby flag is no longer shown.
 
 ## Vertical Velocity Indicator
 The vertical velocity indicator computes the aircraft's vertical velocity, in feet per minute, via static pressure signals from the ADC. Lag is an inherent consequence of the design of the indicator and can result in readings often delayed up to 6 seconds. Much like the airspeed indicator, the vertical velocity indicator suffers from substantial positional and gauge installation errors and can often read up to 500 feet per minute.

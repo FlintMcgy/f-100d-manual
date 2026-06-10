@@ -4,6 +4,20 @@
 
 The low altitude bombing system was introduced to assist with nuclear weapons delivery. It helps the pilots follow a pre-determined trajectory to delivery nuclear weapons with delivery profiles to assist with escape from the effects of the blast.
 
+## Controls and Indicators
+
+### Pullup Light
+
+Active when LABS is active before the pullup. Once pullup occurs this light goes out.
+
+### Roll Indicator
+
+Indicates the current desired roll by the system.
+
+### Pitch Indicator
+
+Indicates desired G load in pullup mode and desired pitch angle in pre-pullup mode.
+
 ## Operation
 
 All LABS delivery modes share the pullup timer. The pullup timer is the time set by the pilot to indicate the time taken for the aircraft to fly from a know identification point (IP) to the pullup point.
