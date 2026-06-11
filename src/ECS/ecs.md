@@ -57,7 +57,7 @@ When the switch is positioned in the BOTH position, it will utilize both the upp
 
 When the switch is positioned in the BOTTOM position, it will only utilize the lower antenna.
 
-Reference [ARN-72 Tacan](../ARN-72_TACAN/tacan.md) for more information.
+Reference [ARN-72 Tacan](../ARN-72%20TACAN/tacan.md) for more information.
 
 ### Cockpit Temperature Rheostat
 
