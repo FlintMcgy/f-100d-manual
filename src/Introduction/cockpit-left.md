@@ -39,18 +39,40 @@ The Wing Flap Handle is a three position lever that actuates the Flaps. The thre
 
 ## Engine and Flight Control Panel
 
-## Landing Gear Control Panel
+# Landing Gear Control Panel
 ![replace image](./img/landinggearcontrolpanel.png)
 
 | Reference | Name |
 |-----------|------|
-| 1         | Landing Gear Lever |
-| 2         | Landing/Taxi Light Switch |
-| 3         | Landing Gear Indicator |
-| 4         | Emergency Jettison |
-| 5         | Landing Gear Warning Cutout |
-| 6         | Fuel Valve Fail Light |
-| 7         | Fire Detector System Test |
+| 1         | [Landing Gear Handle](#landing-gear-handle) |
+| 2         | [Landing/Taxi Light Switch](#landingtaxi-light-switch) |
+| 3         | [Landing Gear Indicator](#landing-gear-indicator) |
+| 4         | [Emergency Jettison](#emergency-jettison) |
+| 5         | [Landing Gear Warning Cutout](#landing-gear-warning-cutout) |
+| 6         | [Fuel System Shutoff Valve Fail Light](../Fuel/fuel.md#fuel-system-shutoff-valve-fail-light) |
+| 7         | [Fire Detector System Test](#fire-detector-system-test) |
+
+### Landing Gear Handle
+The Landing Gear Handle controls the gear UP/DOWN function. The Landing Gear has Weight On Wheel switches that prevent the gear from being raised while sitting on the ground.
+
+### Landing/Taxi Light Switch
+The Landing/Taxi Light Switch will turn on the Landing/Taxi lights. When Weight On Wheels, the Landing/Taxi Lights will extend farther to the taxi position providing properly directed beams for taxiing.
+
+### Landing Gear Indicator
+The Landing Gear Indicator Lights will illuminate green when the gear are in the down and locked position.
+
+### Emergency Jettison
+The Emergency Jettison Button will jettison all ordinance regardless of the position of the [Bomb Arm Switch](../Weapon_System/armament-control-panels.md#bomb-arm-switch) and [Station Release Selection Switches](../Weapon_System/armament-control-panels.md#station-release-selection-switches).
+
+There is a timed delay for this system and may require the button to be held down to release all ordinance.
+
+### Landing Gear Warning Cutout
+The Landing Gear Warning Cutout Button will suppress the Landing Gear Audio Warning Signal when all of the following conditions are met. Landing gear not down and lock, altitude below 10,000 feet, airspeed below 205 (±5) knots IAS and throttle retarded below 85% rpm.
+
+### Fire Detector System Test
+The Fire Detector System Test Button will test the continuity of the fire and overheat-warning system.
+
+Reference [Fire and Overheat Warning Lights](./lights-overview.md#other)
 
 ## Arresting Hook Release Button
 The Arresting Hook Release Button will release the Hook when pressed. The Arresting Hook can only be stored once on the ground by ground personnel.
