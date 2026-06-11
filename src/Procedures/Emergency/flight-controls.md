@@ -1,10 +1,10 @@
 
 <script src="../../hatch.js"></script>
 
-## Flight Controls
+# Flight Controls
 
-### Flight Control Artificial-feel System Failure
-The artificial-feel system failure can be indicated by a
+## Flight Control Artificial-feel System Failure
+The aztificial-feel system failure can be indicated by a
 lightening of stick forces (resulting in over-control), lack
 of trim response, and poor stick-centering characteristics.
 If failure of flight control artificial-feel is encountered,
@@ -16,7 +16,7 @@ relieve severe oscillation of the airplane.
 Ejection is recommended whenever failure of the artificial-feel
 system is evident by loss of adequate control.
 
-### Flight Control Hydraulic System Failure.
+## Flight Control Hydraulic System Failure.
 Failure of one flight control hydraulic system does not affect
 the operation of the other system, which assumes the entire
 load of flight control operation. (Refer to Flight Control
