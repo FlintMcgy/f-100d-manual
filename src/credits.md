@@ -4,7 +4,7 @@
 
 - Joe Grinnelli - Team Lead
 - Aero - Aerodynamicist
-- Thomas - Lead Artist
+- Thomas - Cockpit Artist
 - Josh Nelson - Lead Programmer
 - Sloan Phillippi - Programmer
 - Haydn Boul - Programmer
@@ -19,18 +19,20 @@
 - Evan Ashby - Artist
 - Frog Man (Daniel Kaleikini) - Skins
 - Mach 3 Design Studio - Skins
+- Wireman - Logistics/Server
 - Mxstylie - Research
 
 ## Testers
 
 - Shadowfrost
-- Flint
+- Taha "Flint" Faheem
 - Snakev3nom
 - Klarsnow
 - nearblind
 - Druid
 - VKNG
 - RaptorDad
+- Adam Stettner
 - Deephack
 - Jonbloor
 - Jamie “Diesel Thunder”
@@ -62,7 +64,6 @@
 - Gen
 - Joshers
 - randomTOTEN
-- The wireman
 - Allie Lemire
 - Carl
 - Corey "Jimmy Chaos" James
