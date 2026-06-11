@@ -12,7 +12,7 @@ and target simultaneously.
 
 ![Gun Camera](./img/strike_cam_controls.png)
 
-1. [Camera Selection Dial](#camera-shutter-selector-switch)
+1. [Camera Selection Dial](#camera-selection-dial)
 2. [Camera Timer](#camera-timer)
 
 ### Camera Selection Dial
