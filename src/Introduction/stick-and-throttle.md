@@ -46,7 +46,7 @@ Fuel flow to the engine is mechanically controlled by the pilot via the throttle
 | 4         | [Sight Electrical Caging Button and LABS Vertical Gyro Caging Button](../Weapon_System/a-4-gunsight.md#electrical-cage-button) |
 
 ### Throttle Friction Lever
-The Throttle Friction Lever adjust how much friction the throttle has. Moving the lever forward increases the friction on the throttle
+The Throttle Friction Lever adjusts how much friction the throttle has. Moving the lever forward increases the friction on the throttle
 
 ### Speed Brake Switch
 The speed brake switch will actuate the speed brake. It has 3 positions, OUT/OFF/IN. The OUT position will deploy the speed brake. The OFF position will stop all movement of the speed brake. The IN position will retract the speed brake

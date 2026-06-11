@@ -48,7 +48,7 @@ This toggles between the three types of detail.
 
 ### Advance Checklist Command
 
-Advance checklist command is used to manually check items which are not automatically checked or to bypass an item. The advance checklist command will manually check the highest unchecked item (current item) on the checklist. Once all items are check the advance checklist command will switch to the next procedure. If there is no next procedure then in this case the advance checklist command will do nothing.
+Advance checklist command is used to manually check items which are not automatically checked or to bypass an item. The advance checklist command will manually check the highest unchecked item (current item) on the checklist. Once all items are checked the advance checklist command will switch to the next procedure. If there is no next procedure then in this case the advance checklist command will do nothing.
 
 ![checked-items](./img/checked-items.png)
 

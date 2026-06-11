@@ -141,7 +141,7 @@ In this mode the sight can be used in this mode for manual bombing or rocket att
 
 The A-4 sight has a mode for automatic bombing. This method makes use of the inbuilt gyroscope calculate the target position and matches this to an inbuilt mechanical computer using information such as airspeed to calculate the bomb trajectory. Once the the bomb trajectory coincides with the target position the bomb release signal is sent.
 
-The bombsight works the principle that the line of sight rate corresponds to the slant range to the target. To facilitate this the pipper is automatically depressed by 10 degrees in the bomb mode. The pilot must then keep this on the target for the system to measure the line of sight rate. One the parameters are met the sight extinguishes and the bomb is released.
+The bombsight works the principle that the line of sight rate corresponds to the slant range to the target. To facilitate this the pipper is automatically depressed by 10 degrees in the bomb mode. The pilot must then keep this on the target for the system to measure the line of sight rate. Once the parameters are met the sight extinguishes and the bomb is released.
 
 Note that the electrical cage must be held up until the target is in the sight to protect the gyros. Then the target must be _smoothly_ followed under the pipper to get an accurate measurement. Any jerks or bumps may cause the bombs to release prematurely.
 
